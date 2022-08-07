@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm Nahid
+#### Front-End Developer
+![Front-End Developer](https://media-exp1.licdn.com/dms/image/C5616AQEnfd7Q3uX7Ww/profile-displaybackgroundimage-shrink_350_1400/0/1650619657979?e=1665619200&v=beta&t=wg_d9AZXZUjajWBTD6SBiMUE-vCUzkiaof6L7JWOswA)
 
-<!--
-**nurulhodanahid1/nurulhodanahid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Front-End Developer, developing tools that can serve some purposes and can contribute to the real world. I am developing tools with the mindset of its serving purpose tuning with passions and creativity.
 
-Here are some ideas to get you started:
+Skills: REACT / JAVASCRIPT / HTML / CSS/ TAILWIND CSS/ REACT BOOTSTRAP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Redux, TypeScript 
+- 💬 Ask me about Web Developer 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nurulhodanahid1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nurulhodanahid1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nurulhodanahid1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nurulhodanahid1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nurulhoda-nahid.web.app)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nurulhodanahid1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurulhodanahid1)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nurulhodanahid1&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nurulhodanahid1)  
+
