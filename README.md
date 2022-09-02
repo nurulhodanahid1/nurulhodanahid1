@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahid</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center">Frontend Developer from Bangladesh</h3>
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQEnfd7Q3uX7Ww/profile-displaybackgroundimage-shrink_350_1400/0/1650619657979?e=1665619200&v=beta&t=wg_d9AZXZUjajWBTD6SBiMUE-vCUzkiaof6L7JWOswA" />
 
 - 🌱 I’m currently learning **Redux, TypeScript**
